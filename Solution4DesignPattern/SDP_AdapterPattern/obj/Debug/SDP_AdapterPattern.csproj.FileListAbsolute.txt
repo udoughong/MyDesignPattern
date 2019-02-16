@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\bin\Debug\SDP_AdapterPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\bin\Debug\SDP_AdapterPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\bin\Debug\SDP_AdapterPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\obj\Debug\SDP_AdapterPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\obj\Debug\SDP_AdapterPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\obj\Debug\SDP_AdapterPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AdapterPattern\obj\Debug\SDP_AdapterPattern.pdb

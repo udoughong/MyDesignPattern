@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\bin\Debug\SDP_InterpreterPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\bin\Debug\SDP_InterpreterPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\bin\Debug\SDP_InterpreterPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\obj\Debug\SDP_InterpreterPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\obj\Debug\SDP_InterpreterPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\obj\Debug\SDP_InterpreterPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_InterpreterPattern\obj\Debug\SDP_InterpreterPattern.pdb

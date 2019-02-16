@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\bin\Debug\SDP_IteratorPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\bin\Debug\SDP_IteratorPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\bin\Debug\SDP_IteratorPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.pdb

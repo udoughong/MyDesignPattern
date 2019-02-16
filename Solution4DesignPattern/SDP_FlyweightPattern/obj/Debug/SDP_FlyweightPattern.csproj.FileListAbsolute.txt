@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\bin\Debug\SDP_FlyweightPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\bin\Debug\SDP_FlyweightPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\bin\Debug\SDP_FlyweightPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.pdb

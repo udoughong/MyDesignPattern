@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\bin\Debug\SDP_MementoPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\bin\Debug\SDP_MementoPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\bin\Debug\SDP_MementoPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\obj\Debug\SDP_MementoPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\obj\Debug\SDP_MementoPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\obj\Debug\SDP_MementoPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MementoPattern\obj\Debug\SDP_MementoPattern.pdb

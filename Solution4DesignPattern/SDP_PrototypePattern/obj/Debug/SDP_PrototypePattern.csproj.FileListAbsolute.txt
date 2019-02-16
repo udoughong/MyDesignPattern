@@ -1,0 +1,14 @@
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.exe.config
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.pdb
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.csprojResolveAssemblyReference.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.pdb

@@ -1,0 +1,15 @@
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\Common.dll
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\Common.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.Core.dll
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.Interfaces.dll
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.Linq.dll
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.Core.xml
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.Interfaces.xml
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.Linq.xml
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\obj\Debug\Common.csproj.CopyComplete
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\obj\Debug\Common.dll
+D:\Users\udoug\source\repos\MyDesignPattern\NetMQRxDemo\Common\obj\Debug\Common.pdb

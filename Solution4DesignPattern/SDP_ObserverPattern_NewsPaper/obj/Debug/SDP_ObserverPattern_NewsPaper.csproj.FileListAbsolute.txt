@@ -1,0 +1,14 @@
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.csprojAssemblyReference.cache
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.csproj.CoreCompileInputs.cache
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\bin\Debug\SDP_ObserverPattern_NewsPaper.exe.config
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\bin\Debug\SDP_ObserverPattern_NewsPaper.exe
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\bin\Debug\SDP_ObserverPattern_NewsPaper.pdb
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.exe
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\bin\Debug\SDP_ObserverPattern_NewsPaper.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\bin\Debug\SDP_ObserverPattern_NewsPaper.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\bin\Debug\SDP_ObserverPattern_NewsPaper.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern_NewsPaper\obj\Debug\SDP_ObserverPattern_NewsPaper.pdb

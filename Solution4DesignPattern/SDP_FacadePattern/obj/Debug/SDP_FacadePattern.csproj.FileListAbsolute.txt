@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\bin\Debug\SDP_FacadePattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\bin\Debug\SDP_FacadePattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\bin\Debug\SDP_FacadePattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.pdb

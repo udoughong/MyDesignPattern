@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\bin\Debug\SDP_TemplateMethodPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\bin\Debug\SDP_TemplateMethodPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\bin\Debug\SDP_TemplateMethodPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.pdb

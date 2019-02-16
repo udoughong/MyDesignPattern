@@ -1,0 +1,21 @@
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe.config
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.pdb
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csprojResolveAssemblyReference.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.pdb
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe.config
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.pdb
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csprojResolveAssemblyReference.cache
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.exe
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.pdb

@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\bin\Debug\SDP_BuilderPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\bin\Debug\SDP_BuilderPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\bin\Debug\SDP_BuilderPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\obj\Debug\SDP_BuilderPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\obj\Debug\SDP_BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\obj\Debug\SDP_BuilderPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BuilderPattern\obj\Debug\SDP_BuilderPattern.pdb

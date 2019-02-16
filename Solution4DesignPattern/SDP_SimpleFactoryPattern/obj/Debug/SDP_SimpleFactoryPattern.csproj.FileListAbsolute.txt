@@ -1,0 +1,14 @@
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.exe.config
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.pdb
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.pdb
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.pdb

@@ -1,0 +1,21 @@
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.exe.config
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.pdb
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.exe
+D:\Users\有德\OneDrive\文件\visual studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.pdb
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.exe.config
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.exe
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.pdb
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.exe
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\bin\Debug\SDP_AbstractFactoryPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_AbstractFactoryPattern\obj\Debug\SDP_AbstractFactoryPattern.pdb

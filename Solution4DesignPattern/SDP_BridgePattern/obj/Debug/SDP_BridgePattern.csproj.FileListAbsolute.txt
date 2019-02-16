@@ -1,0 +1,7 @@
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\bin\Debug\SDP_BridgePattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\bin\Debug\SDP_BridgePattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\bin\Debug\SDP_BridgePattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\obj\Debug\SDP_BridgePattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\obj\Debug\SDP_BridgePattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\obj\Debug\SDP_BridgePattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_BridgePattern\obj\Debug\SDP_BridgePattern.pdb

@@ -1,0 +1,21 @@
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.exe.config
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.exe
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.pdb
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.csprojResolveAssemblyReference.cache
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.exe
+D:\Users\有德\Documents\Visual Studio 2017\Projects\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.pdb
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.exe.config
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.exe
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.pdb
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.exe
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.pdb
+C:\Users\udoug\Source\Repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.exe.config
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\bin\Debug\SDP_ObserverPattern.pdb
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.exe
+D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ObserverPattern\obj\Debug\SDP_ObserverPattern.pdb
