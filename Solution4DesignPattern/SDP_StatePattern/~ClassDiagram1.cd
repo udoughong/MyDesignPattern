@@ -7,7 +7,7 @@
       <FileName>Administrator.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_StatePattern.DbTable" Collapsed="true">
+  <Class Name="SDP_StatePattern.DbTable">
     <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAAABAAEAAQA=</HashCode>
@@ -21,7 +21,7 @@
       <FileName>Guest.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_StatePattern.Program" Collapsed="true">
+  <Class Name="SDP_StatePattern.Program">
     <Position X="9.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAABAAAAAA=</HashCode>

@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-D:\Users\udoug\Source\Repos\MyDesignPattern\NetMQRxDemo\NetMQServer\obj\Release\
+C:\Users\洪有德\Source\Repos\udoughong\MyDesignPattern\NetMQRxDemo\NetMQServer\obj\Release\
 NetMQServer
 none
 false
 TRACE
-D:\Users\udoug\Source\Repos\MyDesignPattern\NetMQRxDemo\NetMQServer\App.xaml
+C:\Users\洪有德\Source\Repos\udoughong\MyDesignPattern\NetMQRxDemo\NetMQServer\App.xaml
 11151548125
 1210648915
 9408868367
-191297461164
+19-285413051
 MainWindow.xaml;
 
 False

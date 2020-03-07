@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-D:\Users\udoug\source\repos\MyDesignPattern\SignalRRxDemo\SignalRSelfHost\obj\Debug\
+C:\Users\洪有德\Source\Repos\udoughong\MyDesignPattern\SignalRRxDemo\SignalRSelfHost\obj\Debug\
 SignalRSelfHost
 none
 false
 DEBUG;TRACE
-D:\Users\udoug\source\repos\MyDesignPattern\SignalRRxDemo\SignalRSelfHost\App.xaml
+C:\Users\洪有德\Source\Repos\udoughong\MyDesignPattern\SignalRRxDemo\SignalRSelfHost\App.xaml
 11151548125
 1210648915
 1693532210
-27-383168366
+27151516219
 MainWindow.xaml;
 
 False

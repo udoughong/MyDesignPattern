@@ -7,7 +7,7 @@
       <FileName>BarChartView.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_ObserverPattern.DataObject" Collapsed="true">
+  <Class Name="SDP_ObserverPattern.DataObject">
     <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAABAAAQAAgAAAAAAAAAAAAAAABAAAAQAAIAAAA=</HashCode>
@@ -21,7 +21,7 @@
       <FileName>PieChartView.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_ObserverPattern.Program" Collapsed="true">
+  <Class Name="SDP_ObserverPattern.Program">
     <Position X="7" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
