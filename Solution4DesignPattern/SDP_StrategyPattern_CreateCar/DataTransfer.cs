@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SDP_StrategyPattern_CreateCar
+namespace SDP_StrategyPattern
 {
     class DataTransfer
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SDP_StrategyPattern_CreateCar
+namespace SDP_StrategyPattern
 {
     class Program
     {
@@ -10,6 +10,9 @@ namespace SDP_StrategyPattern_CreateCar
             dt.SetProtocol(new Bluetooth());
             dt.LoadStream();
             dt.SendStream();
+            dt.SetProtocol(new NFC());
+            dt.LoadStream();
+            dt.SendStream();
             Console.ReadLine();
         }
     }
@@ -17,4 +20,6 @@ namespace SDP_StrategyPattern_CreateCar
 /*Output:
 Loading the stream...
 [Bluetooth] Transfer
+Loading the stream...
+[NFC] Transfer
 */
