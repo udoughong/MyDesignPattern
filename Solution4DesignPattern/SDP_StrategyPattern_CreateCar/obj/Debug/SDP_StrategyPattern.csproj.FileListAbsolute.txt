@@ -1,0 +1,6 @@
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_StrategyPattern_CreateCar\bin\Debug\SDP_StrategyPattern_CreateCar.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_StrategyPattern_CreateCar\bin\Debug\SDP_StrategyPattern_CreateCar.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_StrategyPattern_CreateCar\bin\Debug\SDP_StrategyPattern_CreateCar.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_StrategyPattern_CreateCar\obj\Debug\SDP_StrategyPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_StrategyPattern_CreateCar\obj\Debug\SDP_StrategyPattern_CreateCar.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_StrategyPattern_CreateCar\obj\Debug\SDP_StrategyPattern_CreateCar.pdb
