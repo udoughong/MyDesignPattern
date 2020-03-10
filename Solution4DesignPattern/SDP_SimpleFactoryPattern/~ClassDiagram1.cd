@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="SDP_SimpleFactoryPattern.BeverageStores" Collapsed="true">
+  <Class Name="SDP_SimpleFactoryPattern.BeverageStores">
     <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAAAAA=</HashCode>
       <FileName>BeverageStores.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_SimpleFactoryPattern.BlackTea" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="SDP_SimpleFactoryPattern.BlackTea" BaseTypeListCollapsed="true">
     <Position X="2.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAgAAAA=</HashCode>
       <FileName>BlackTea.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
+    <Lollipop Position="0.2" />
   </Class>
-  <Class Name="SDP_SimpleFactoryPattern.GreenTea" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="SDP_SimpleFactoryPattern.GreenTea" BaseTypeListCollapsed="true">
     <Position X="4" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAgAAAA=</HashCode>
       <FileName>GreenTea.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
+    <Lollipop Position="0.2" />
   </Class>
-  <Class Name="SDP_SimpleFactoryPattern.Program" Collapsed="true">
-    <Position X="0.5" Y="1.5" Width="1.5" />
+  <Class Name="SDP_SimpleFactoryPattern.Program">
+    <Position X="0.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_SimpleFactoryPattern.SimpleBeverageFactory" Collapsed="true">
-    <Position X="2.25" Y="1.5" Width="1.5" />
+  <Class Name="SDP_SimpleFactoryPattern.SimpleBeverageFactory">
+    <Position X="0.5" Y="4.25" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
       <FileName>SimpleBeverageFactory.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="SDP_SimpleFactoryPattern.IBeverageProvide" Collapsed="true">
-    <Position X="0.5" Y="2.75" Width="1.5" />
+  <Interface Name="SDP_SimpleFactoryPattern.IBeverageProvide">
+    <Position X="2.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAgAAAA=</HashCode>
       <FileName>IBeverageProvide.cs</FileName>
