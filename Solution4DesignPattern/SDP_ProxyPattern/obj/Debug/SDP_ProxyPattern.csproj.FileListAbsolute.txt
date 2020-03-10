@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPatt
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\obj\Debug\SDP_ProxyPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\obj\Debug\SDP_ProxyPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\obj\Debug\SDP_ProxyPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\bin\Debug\SDP_ProxyPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\bin\Debug\SDP_ProxyPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\bin\Debug\SDP_ProxyPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\obj\Debug\SDP_ProxyPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\obj\Debug\SDP_ProxyPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ProxyPattern\obj\Debug\SDP_ProxyPattern.pdb

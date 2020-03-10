@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00簡單工廠模式 (Simple Factory Pattern)", "00簡單工廠模式 (Simple Factory Pattern)", "{FA690BD5-89CD-42DD-A5E4-F5187BD9104D}"
 EndProject
@@ -54,7 +54,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP_AdapterPattern", "SDP_A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04建造者模式(Builder Pattern)", "04建造者模式(Builder Pattern)", "{FC6AD810-4CEC-418E-84F9-DA1C7DB6EB5B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05單利模式(Singleton Pattern)", "05單利模式(Singleton Pattern)", "{A26E4F99-AABF-4A51-89DA-1599826E58D5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "~05單利模式(Singleton Pattern)", "~05單利模式(Singleton Pattern)", "{A26E4F99-AABF-4A51-89DA-1599826E58D5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07表象(外觀)模式(Facade Pattern)", "07表象(外觀)模式(Facade Pattern)", "{30EECB4E-6846-4411-B9DD-2CFD1E4B623B}"
 EndProject

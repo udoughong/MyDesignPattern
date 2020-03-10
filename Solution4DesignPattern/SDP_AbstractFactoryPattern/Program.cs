@@ -25,3 +25,13 @@ namespace SDP_AbstractFactoryPattern
         }
     }
 }
+/*Output:
+[SqlConnection] Connection
+[SqlCommand] Execute
+[SqlResultSet] HasNext
+[SqlTransaction] Transact
+[OracleConnection] Connection
+[OracleCommand] Execute
+[OracleResultSet] HasNext
+[OracleTransaction] Transact
+ */

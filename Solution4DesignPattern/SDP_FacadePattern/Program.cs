@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_FacadePattern
 {
@@ -18,3 +14,10 @@ namespace SDP_FacadePattern
         }
     }
 }
+/*Output:
+Applying rock preset
+[HighPassFlanger] SetValue
+[Echo] Set
+[TwoPassEqualizer] SetHigh
+[MediaPlayer] Playing...
+*/

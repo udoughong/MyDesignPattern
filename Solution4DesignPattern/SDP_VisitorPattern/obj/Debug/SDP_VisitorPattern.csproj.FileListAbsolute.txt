@@ -19,3 +19,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPa
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\obj\Debug\SDP_VisitorPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\obj\Debug\SDP_VisitorPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\obj\Debug\SDP_VisitorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\bin\Debug\SDP_VisitorPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\bin\Debug\SDP_VisitorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\bin\Debug\SDP_VisitorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\obj\Debug\SDP_VisitorPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\obj\Debug\SDP_VisitorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_VisitorPattern\obj\Debug\SDP_VisitorPattern.pdb

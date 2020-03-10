@@ -12,3 +12,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFac
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\bin\Debug\SDP_SimpleFactoryPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SimpleFactoryPattern\obj\Debug\SDP_SimpleFactoryPattern.pdb

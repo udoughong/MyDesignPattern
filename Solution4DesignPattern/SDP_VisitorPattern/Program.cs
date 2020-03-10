@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_VisitorPattern
 {
@@ -22,3 +18,6 @@ namespace SDP_VisitorPattern
         }
     }
 }
+/*Output:
+Total tax:650.000013411045
+*/

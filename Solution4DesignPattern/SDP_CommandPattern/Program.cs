@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_CommandPattern
 {
@@ -19,3 +15,8 @@ namespace SDP_CommandPattern
         }
     }
 }
+/*Output:
+[Widget] SendClick
+[OpenFileCommand] Execute
+[Application] OpenFile
+*/

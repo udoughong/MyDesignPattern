@@ -19,3 +19,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\bin\Debug\SDP_FactoryMethodPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FactoryMethodPattern\obj\Debug\SDP_FactoryMethodPattern.pdb

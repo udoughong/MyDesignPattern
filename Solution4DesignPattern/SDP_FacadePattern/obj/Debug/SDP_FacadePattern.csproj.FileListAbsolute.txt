@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePat
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\bin\Debug\SDP_FacadePattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\bin\Debug\SDP_FacadePattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\bin\Debug\SDP_FacadePattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FacadePattern\obj\Debug\SDP_FacadePattern.pdb

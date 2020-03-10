@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_Decorator
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\obj\Debug\SDP_DecoratorPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\obj\Debug\SDP_DecoratorPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\obj\Debug\SDP_DecoratorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\bin\Debug\SDP_DecoratorPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\bin\Debug\SDP_DecoratorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\bin\Debug\SDP_DecoratorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\obj\Debug\SDP_DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\obj\Debug\SDP_DecoratorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_DecoratorPattern\obj\Debug\SDP_DecoratorPattern.pdb

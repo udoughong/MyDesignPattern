@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_Singleton
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\obj\Debug\SDP_SingletonPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\obj\Debug\SDP_SingletonPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\obj\Debug\SDP_SingletonPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\bin\Debug\SDP_SingletonPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\bin\Debug\SDP_SingletonPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\bin\Debug\SDP_SingletonPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\obj\Debug\SDP_SingletonPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\obj\Debug\SDP_SingletonPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_SingletonPattern\obj\Debug\SDP_SingletonPattern.pdb

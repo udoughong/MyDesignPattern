@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_BuilderPattern
 {
@@ -20,3 +16,12 @@ namespace SDP_BuilderPattern
         }
     }
 }
+/*
+[BudgetTour] Book a budget hotel
+[BudgetTour] Book a budget restaurant
+[BudgetTour] Book train tickets
+[LuxuryTour] Book a 5-star hotel
+[LuxuryTour] Book a 5-star restaurant
+[LuxuryTour] Book first class tickets
+[LuxuryTour] Book table in Casino
+*/

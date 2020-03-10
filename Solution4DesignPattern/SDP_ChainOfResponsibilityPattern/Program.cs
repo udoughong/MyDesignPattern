@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_ChainOfResponsibilityPattern
 {
@@ -20,3 +16,9 @@ namespace SDP_ChainOfResponsibilityPattern
         }
     }
 }
+/*Output:
+[SalesHandler] Handle
+[FanMailHandler] Handle
+[SpamHandler] Handle
+End of chain
+*/

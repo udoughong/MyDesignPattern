@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MediatorP
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\obj\Debug\SDP_MediatorPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\obj\Debug\SDP_MediatorPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\obj\Debug\SDP_MediatorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\bin\Debug\SDP_MediatorPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\bin\Debug\SDP_MediatorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\bin\Debug\SDP_MediatorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\obj\Debug\SDP_MediatorPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\obj\Debug\SDP_MediatorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_MediatorPattern\obj\Debug\SDP_MediatorPattern.pdb

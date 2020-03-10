@@ -12,3 +12,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_Prototype
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\bin\Debug\SDP_PrototypePattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_PrototypePattern\obj\Debug\SDP_PrototypePattern.pdb

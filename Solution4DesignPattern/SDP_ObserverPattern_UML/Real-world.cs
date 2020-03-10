@@ -130,3 +130,16 @@ namespace SDP_ObserverPattern_UML
         }
     }
 }
+/*Output:
+Notified Sorros of IBM's change to NT$120.10
+Notified Berkshire of IBM's change to NT$120.10
+
+Notified Sorros of IBM's change to NT$121.00
+Notified Berkshire of IBM's change to NT$121.00
+
+Notified Sorros of IBM's change to NT$120.50
+Notified Berkshire of IBM's change to NT$120.50
+
+Notified Sorros of IBM's change to NT$120.75
+Notified Berkshire of IBM's change to NT$120.75
+*/

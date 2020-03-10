@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateM
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\bin\Debug\SDP_TemplateMethodPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\bin\Debug\SDP_TemplateMethodPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\bin\Debug\SDP_TemplateMethodPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_TemplateMethodPattern\obj\Debug\SDP_TemplateMethodPattern.pdb

@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfRe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\obj\Debug\SDP_ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\obj\Debug\SDP_ChainOfResponsibilityPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\obj\Debug\SDP_ChainOfResponsibilityPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\bin\Debug\SDP_ChainOfResponsibilityPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\bin\Debug\SDP_ChainOfResponsibilityPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\bin\Debug\SDP_ChainOfResponsibilityPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\obj\Debug\SDP_ChainOfResponsibilityPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\obj\Debug\SDP_ChainOfResponsibilityPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_ChainOfResponsibilityPattern\obj\Debug\SDP_ChainOfResponsibilityPattern.pdb

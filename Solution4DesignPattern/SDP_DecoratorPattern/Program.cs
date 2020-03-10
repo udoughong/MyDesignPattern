@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_DecoratorPattern
 {
@@ -21,3 +17,11 @@ namespace SDP_DecoratorPattern
         }
     }
 }
+/*Output:
+Encrypting...
+Compressing...
+Writing...
+Reading...
+Decompressing...
+Decrypting...
+*/

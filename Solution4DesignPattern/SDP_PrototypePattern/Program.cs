@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_PrototypePattern
 {
@@ -57,3 +53,34 @@ namespace SDP_PrototypePattern
         }
     }
 }
+/*Output:
+Using prototype start...
+[Cyborg] Loading sounds
+[Cyborg] Loading textures
+[Cyborg] Attacking
+[Alien] Loading sounds
+[Alien] Loading textures
+[Alien] Attacking
+[Acid] Loading sounds
+[Acid] Loading textures
+[Acid] Attacking
+Cloning the monsters...
+[Cyborg] Attacking
+[Alien] Attacking
+[Acid] Attacking
+Using prototype manager start...
+[Cyborg] Loading sounds
+[Cyborg] Loading textures
+[Alien] Loading sounds
+[Alien] Loading textures
+[Acid] Loading sounds
+[Acid] Loading textures
+Getting instance of monsters through cloning...
+[Cyborg] Attacking
+[Alien] Attacking
+[Acid] Attacking
+Cloning the monsters...
+[Cyborg] Attacking
+[Alien] Attacking
+[Acid] Attacking
+*/

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_StatePattern
 {
@@ -26,3 +22,14 @@ namespace SDP_StatePattern
         }
     }
 }
+/*Output:
+Current user is SDP_StatePattern.Administrator.
+[Administrator] Writing Data
+[Administrator] Viewing Data
+Current user is SDP_StatePattern.Programmer.
+[Programmer] Cannot write Data
+[Programmer] Viewing Data
+Current user is SDP_StatePattern.Guest.
+[Guest] Cannot write Data
+[Guest] Cannot view Data
+*/

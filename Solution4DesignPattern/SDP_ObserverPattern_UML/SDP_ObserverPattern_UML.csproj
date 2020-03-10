@@ -49,7 +49,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Real-world.cs.cd" />
-    <None Include="Structural.cs.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

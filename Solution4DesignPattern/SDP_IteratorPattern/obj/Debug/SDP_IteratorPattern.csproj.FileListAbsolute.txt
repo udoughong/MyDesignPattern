@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorP
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\bin\Debug\SDP_IteratorPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\bin\Debug\SDP_IteratorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\bin\Debug\SDP_IteratorPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_IteratorPattern\obj\Debug\SDP_IteratorPattern.pdb

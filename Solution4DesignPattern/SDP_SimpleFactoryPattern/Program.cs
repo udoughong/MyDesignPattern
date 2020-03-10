@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_SimpleFactoryPattern
 {
@@ -19,3 +15,13 @@ namespace SDP_SimpleFactoryPattern
         }
     }
 }
+/*
+A 客人點了綠茶
+店員:加入綠茶包
+店員:沖泡
+店員:將綠茶裝杯
+B 客人點了紅茶
+店員:加入紅茶包
+店員:沖泡
+店員:將紅茶裝杯
+ */

@@ -5,3 +5,9 @@ D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_Flyweight
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.csproj.CoreCompileInputs.cache
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.exe
 D:\Users\udoug\source\repos\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\bin\Debug\SDP_FlyweightPattern.exe.config
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\bin\Debug\SDP_FlyweightPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\bin\Debug\SDP_FlyweightPattern.pdb
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.exe
+C:\Users\洪有德\source\repos\udoughong\MyDesignPattern\Solution4DesignPattern\SDP_FlyweightPattern\obj\Debug\SDP_FlyweightPattern.pdb

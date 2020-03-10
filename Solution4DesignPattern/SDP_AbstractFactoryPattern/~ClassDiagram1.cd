@@ -56,7 +56,7 @@
       <FileName>OracleTransaction.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SDP_AbstractFactoryPattern.Program" Collapsed="true">
+  <Class Name="SDP_AbstractFactoryPattern.Program">
     <Position X="10.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAEAA=</HashCode>

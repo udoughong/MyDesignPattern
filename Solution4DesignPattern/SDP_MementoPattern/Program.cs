@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_MementoPattern
 {
@@ -26,3 +22,13 @@ namespace SDP_MementoPattern
         }
     }
 }
+/*Output:
+Balance is 1000
+Saving state of account...
+Balance is 6000
+Saving state of account...
+Balance is 2000
+Restoring state...
+Balance is 6000
+Balance is 1000
+*/

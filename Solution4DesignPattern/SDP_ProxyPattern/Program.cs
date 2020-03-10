@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_ProxyPattern
 {
@@ -18,3 +14,11 @@ namespace SDP_ProxyPattern
         }
     }
 }
+/*Output:
+Synchronizing Add:5
+[FastList] Add:5
+Synchronizing Add:8
+[FastList] Add:8
+Synchronizing Remove:5
+[FastList] Remove:5
+*/

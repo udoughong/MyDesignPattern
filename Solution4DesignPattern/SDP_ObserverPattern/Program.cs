@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace SDP_ObserverPattern
 {
@@ -18,3 +17,9 @@ namespace SDP_ObserverPattern
         }
     }
 }
+/*Output:
+[BarChartView]Notified of data change
+[PieChartView]Notified of data change some data
+[BarChartView]Notified of data change
+[PieChartView]Notified of data change Data is loaded from a file
+*/

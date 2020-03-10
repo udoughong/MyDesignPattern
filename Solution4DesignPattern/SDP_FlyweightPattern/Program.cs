@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_FlyweightPattern
 {
@@ -41,3 +37,9 @@ namespace SDP_FlyweightPattern
 
     }
 }
+/*Output:
+Without flyweight
+Total objects created:10000
+With flyweight
+Total objects created:228
+*/

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_StrategyPattern_CreateCar
 {
@@ -14,6 +10,11 @@ namespace SDP_StrategyPattern_CreateCar
             dt.SetProtocol(new Bluetooth());
             dt.LoadStream();
             dt.SendStream();
+            Console.ReadLine();
         }
     }
 }
+/*Output:
+Loading the stream...
+[Bluetooth] Transfer
+*/

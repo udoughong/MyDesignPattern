@@ -1,0 +1,100 @@
+<Project>
+  <Name>GameLoopState</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>ControllerState</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>MainMenuState</Name>
+        <Access>Public</Access>
+        <Location left="513" top="587" />
+        <Size width="163" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public void StateBegin()</Member>
+        <Member type="Method">public void StateEnd()</Member>
+        <Member type="Method">public void StateUpdate()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>StartState</Name>
+        <Access>Public</Access>
+        <Location left="513" top="312" />
+        <Size width="163" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public void StateBegin()</Member>
+        <Member type="Method">public void StateEnd()</Member>
+        <Member type="Method">public void StateUpdate()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>BattleState</Name>
+        <Access>Public</Access>
+        <Location left="267" top="587" />
+        <Size width="163" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public void StateBegin()</Member>
+        <Member type="Method">public void StateEnd()</Member>
+        <Member type="Method">public void StateUpdate()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Interface">
+        <Name>ISceneState</Name>
+        <Access>Public</Access>
+        <Location left="267" top="312" />
+        <Size width="163" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">virtual void StateBegin()</Member>
+        <Member type="Method">virtual void StateEnd()</Member>
+        <Member type="Method">virtual void StateUpdate()</Member>
+      </Entity>
+      <Entity type="Class">
+        <Name>SceneStateController</Name>
+        <Access>Public</Access>
+        <Location left="75" top="56" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private ISceneState m_State</Member>
+        <Member type="Method">public void SetState()</Member>
+        <Member type="Method">public void StateUpdate()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>GameLoop</Name>
+        <Access>Public</Access>
+        <Location left="345" top="43" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">SceneStateController m_SceneStateController</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Realization" first="1" second="3">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Realization" first="0" second="3">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Realization" first="2" second="3">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Association" first="4" second="3">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Bidirectional</Direction>
+        <AssociationType>Aggregation</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="5" second="4">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Bidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartMultiplicity>*</StartMultiplicity>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

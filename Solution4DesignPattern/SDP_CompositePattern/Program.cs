@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_CompositePattern
 {
@@ -24,3 +20,20 @@ namespace SDP_CompositePattern
         }
     }
 }
+/*Output:
+Name:C:/
+Attributes:RW
+Encryption:
+Name:My Document
+Attributes:RW
+Encryption:
+Name:Readme.pdf
+Attributes:RW
+Version:1.0
+Name:SalesReport.pdf
+Attributes:RWX
+Version:2.0
+Name:Accounts.pdf
+Attributes:R
+Version:V7
+*/

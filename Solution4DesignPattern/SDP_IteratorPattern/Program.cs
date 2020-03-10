@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_IteratorPattern
 {
@@ -43,3 +39,16 @@ namespace SDP_IteratorPattern
         }
     }
 }
+/*Output:
+Iterating over the array...
+5
+8
+92
+43
+
+Iterating over the list...
+80
+12
+1
+52
+*/

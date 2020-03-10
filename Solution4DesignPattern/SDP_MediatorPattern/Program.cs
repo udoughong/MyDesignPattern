@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_MediatorPattern
 {
@@ -23,3 +19,11 @@ namespace SDP_MediatorPattern
         }
     }
 }
+/*Output:
+[HumanUser][Shafiq] Sent:Hello, everyone!
+[Bot][Robo] Received:Hello, everyone!
+[HumanUser][Sameer] Received:Hello, everyone!
+[HumanUser][Sameer] Sent:What's up
+[Bot][Robo] Received:What's up
+[HumanUser][Shafiq] Received:What's up
+*/

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SDP_TemplateMethodPattern
 {
@@ -18,3 +14,10 @@ namespace SDP_TemplateMethodPattern
         }
     }
 }
+/*Output:
+[Document] OpenDialog
+[Pdf] ReadHeader
+[Pdf] Parse
+[Pdf] Format
+[Pdf] Display
+*/
